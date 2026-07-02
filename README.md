@@ -3,7 +3,7 @@ Data and code for Mills et al. 2026 Canadian Journal of Fisheries and Aquatic Sc
 
 List of Authors:  
 Mills, Katherine; Gulf of Maine Research Institute  
-Barajas, Miguel; Gulf of Maine Research Institute
+Barajas, Miguel; Gulf of Maine Research Institute  
 Mulvey-Mcferron, Owen; California Department of Fish and Wildlife  
 Thomas, Andrew; University of Maine, School of Marine Sciences  
 Valliere, Jason; Maine Department of Marine Resources  
