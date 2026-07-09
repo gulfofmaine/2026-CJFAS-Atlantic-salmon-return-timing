@@ -8,3 +8,5 @@ Mulvey-Mcferron, Owen; California Department of Fish and Wildlife
 Thomas, Andrew; University of Maine, School of Marine Sciences  
 Valliere, Jason; Maine Department of Marine Resources  
 Kocik, John; Northeast Fisheries Science Center, NOAA Fisheries  
+
+[![DOI](https://zenodo.org/badge/1285361366.svg)](https://doi.org/10.5281/zenodo.21281715)
